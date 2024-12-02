@@ -1,0 +1,48 @@
+# Product Management Templates
+
+Welcome to a comprehensive collection of templates tailored for product managers. Here, you'll find structured tools to aid in various aspects of product management from discovery to prioritization, strategy, experimentation, and more.
+
+## 1. [Product Discovery Templates](https://www.productcompass.pm/i/95087405/product-discovery-templates)
+- Customer Interview (PPTX)
+- User Persona (PPTX)
+- User Journey Map (PPTX)
+- Opportunity Score: Introduction (PDF)
+- Opportunity Score: The official Dan Olsen's template (PPTX)
+- Jobs-to-be-Done Opportunity Score calculation (XLSX)
+- 5-Day Design Sprint: The only official template (Miro)
+- Opportunity Solution Tree (Miro)
+
+## 2. [Prioritization Templates](https://www.productcompass.pm/i/95087405/prioritization-templates)
+- ICE Framework (XLSX)
+- RICE Framework (XLSX)
+- Impact vs. Effort (Miro)
+- Eisenhower Matrix (Miro)
+- Risk vs Reward (PPTX)
+- Weighted Decision Prioritization (XLSX)
+
+## 3. [Strategy and Business Templates](https://www.productcompass.pm/i/95087405/strategy-and-business-templates)
+- Product Strategy Canvas by Paweł Huryn (PPTX)
+- Startup Canvas: Product Strategy and a Business Model by Paweł Huryn (PPTX)
+- Business Model Canvas (PPTX)
+- Lean Canvas (PPTX)
+- Value Proposition Template by Paweł Huryn and Aatir Abdul Rauf (XLSX)
+- Value Proposition Canvas by Strategyzer (PDF)
+- Business Model Portfolio by Strategyzer (PDF)
+- Lean UX Canvas (PDF)
+- Value Curve (XLSX)
+- Ansoff Matrix (Miro)
+- Porter’s Five Forces (PPTX)
+- PESTEL Analysis (Miro)
+- SWOT Analysis (Miro)
+
+## 4. [Experimentation Templates](https://www.productcompass.pm/i/95087405/experimentation-templates)
+- User Story Map to generate assumptions (PPTX)
+- Assumption Prioritization Canvas by Paweł Huryn (PPTX)
+- Hypothesis prioritization canvas (PDF)
+- Strategyzer Test Card (PDF)
+- Strategyzer Learning Card (PDF)
+
+## 5. [Other Product Management Templates Collections](https://www.productcompass.pm/i/95087405/other-product-management-templates-collections)
+- Now-Next-Later Product Roadmap Template (PPTX)
+- 2x2 Stakeholders Map (PPTX)
+- Free Ultimate PM Kit (27 FigJam templates)
